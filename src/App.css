@@ -1,0 +1,40 @@
+header {
+  font-size: 40px;
+  font-weight: medium;
+}
+.modeSelector {
+  font-weight: normal;
+  font-size: 25px;
+}
+select {
+  width: 80%;
+  margin-left: 20px;
+  height: 50px;
+  border: 5px solid #57a0d3;
+}
+.selectLine {
+  margin-top: 50px;
+}
+ul {
+  background-color: #57a0d3;
+  margin-top: 100px;
+  list-style: none;
+  width: 450px;
+  height: 150px;
+  border-radius: 5px;
+}
+.rightUl {
+  margin-right: 100px;
+  margin-left: 20px;
+}
+.leftUl {
+  margin-left: 80px;
+}
+.routeContainer {
+  width: 80%;
+  display: flex;
+  flex-direction: row;
+}
+.content {
+  margin-top: 50px;
+}
